@@ -1,0 +1,4 @@
+defaults:
+  - dataset: tt
+  - run: train
+  - model: unet_resunet

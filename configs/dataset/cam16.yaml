@@ -1,0 +1,15 @@
+opt_dataset:
+  fineSize: 256
+  augment_fn: histo
+  use_color: gray
+  crop: False
+  name: cam16
+  source_dataframe: /g/data/iq24/CAMELYON16_patches
+  target_dataframe: /g/data/iq24/CAMELYON16_patches
+  test_dataframe: /g/data/iq24/MQ_sn/source
+  train_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/CAMELYON16/train/train.csv
+  test_output_dir: /home/congz3414050/cong/CAGAN_Stain_Norm/results/visuals
+  P_mask: /scratch/iq24/cc0395/CAGAN/results/visuals/cam16_2.png
+  image_index: 0
+  label_index: 1
+  num_class: 2

@@ -1,0 +1,14 @@
+opt_dataset:
+  fineSize: 256
+  augment_fn: base
+  use_color: gray
+  crop: False
+  name: tt
+  data_root: /root/autodl-tmp/HE_SN_ALL/SN_TT
+  source_center: raw_slide
+  target_center: target
+  test_center: raw_slide
+  P_mask: /root/autodl-tmp/HE_SN_ALL/SN_TT/raw_patch/10.png
+  image_index: 0
+  label_index: 1
+  num_class: 2
