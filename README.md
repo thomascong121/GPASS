@@ -1,4 +1,4 @@
-# Code for GPASS
+# Official Repository for G-PASS
 
 ![GPASS Logo](GPASS.png)
 
