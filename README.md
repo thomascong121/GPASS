@@ -49,6 +49,6 @@ For stain normalisation testing, simple change the `run` config to `test` and ru
 
 For classification testing, please refer to [IDH_Classification](https://github.com/thomascong121/IDH_Classification) where the classification code is located.
 
-Comments
+<!-- Comments
 ====
-Most of the codes are based on [CAGAN](https://github.com/thomascong121/CAGAN_Stain_Norm).
+Most of the codes are based on [CAGAN](https://github.com/thomascong121/CAGAN_Stain_Norm). -->
