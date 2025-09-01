@@ -1,5 +1,7 @@
 # Code for GPASS
 
+![GPASS Logo](GPASS.png)
+
 Configs
 ===
 All configs are located `configs` folder. Before running the code, please make sure you have installed all the required packages. You can install them by running `pip install -r requirements.txt`.
