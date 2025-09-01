@@ -45,7 +45,7 @@ Testing
 ====
 For stain normalisation testing, simple change the `run` config to `test` and run `./run.sh`. Testing will be based on the model saved in the `checkpoints_dir` specified in the config file and you may specify the `which_epoch` to load the specific epoch. The tested results will be saved to a log file in the `logs` folder.
 
-For classification testing, please refer to [IDH_Classification](https://github.com/thomascong121/IDH_Classificationm) where the classification code is located.
+For classification testing, please refer to [IDH_Classification](https://github.com/thomascong121/IDH_Classification) where the classification code is located.
 
 Comments
 ====
